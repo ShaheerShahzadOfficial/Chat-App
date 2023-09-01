@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+display: none;
+}
+@font-face {
+    font-family: Blogger;
+    src:url("./assets/Fonts/blogger.ttf");
+}
+
+.logoText{
+    font-family: Blogger;
+}
